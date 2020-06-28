@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "585831489227",
+    "firebase_url": "https://sih2020-264911.firebaseio.com",
+    "project_id": "sih2020-264911",
+    "storage_bucket": "sih2020-264911.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585831489227:android:1c83dfaf8cf5d8c72e054e",
+        "android_client_info": {
+          "package_name": "com.kunal.sih"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585831489227-l9gclaqtjpn555f66mrvvckfr1f2chru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy-Bqa_Wk5fURqfm54vYudjVzVxx6cioo"
+        },
+        {
+          "current_key": "AIzaSyBXpjGi1h6NUF7rp2iChDqq04MP1-oFG7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585831489227-l9gclaqtjpn555f66mrvvckfr1f2chru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585831489227:android:51d017d580a88ffb2e054e",
+        "android_client_info": {
+          "package_name": "com.kunal.sih.ves"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585831489227-l9gclaqtjpn555f66mrvvckfr1f2chru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy-Bqa_Wk5fURqfm54vYudjVzVxx6cioo"
+        },
+        {
+          "current_key": "AIzaSyBXpjGi1h6NUF7rp2iChDqq04MP1-oFG7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585831489227-l9gclaqtjpn555f66mrvvckfr1f2chru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585831489227:android:90bfde86ed4041602e054e",
+        "android_client_info": {
+          "package_name": "com.sih2020.kunal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585831489227-l9gclaqtjpn555f66mrvvckfr1f2chru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy-Bqa_Wk5fURqfm54vYudjVzVxx6cioo"
+        },
+        {
+          "current_key": "AIzaSyBXpjGi1h6NUF7rp2iChDqq04MP1-oFG7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585831489227-l9gclaqtjpn555f66mrvvckfr1f2chru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
